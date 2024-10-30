@@ -10,7 +10,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
-  "author": "Chandrashekhar",
+  "author": "Charles",
   "license": "MIT",
   "proxy": "http://localhost:5000",
   "dependencies": {
